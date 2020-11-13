@@ -51,3 +51,4 @@ for c in range(0,int(c)):
 		speak("I won sir ")
 		speak(f"sir you won {x} the game out of {c}trils")
 		print(f"sir you won {x}the game out of {c}trils")
+print("you won x time bro")
